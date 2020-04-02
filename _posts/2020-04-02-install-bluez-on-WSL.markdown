@@ -9,3 +9,13 @@ tags:
     - Bluetooth
     - BlueZ
 ---
+
+* Install Ubuntu, WSL for Windows 10 
+
+    I choose Ubuntu, This is installation link on [MS website](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+
+- system update and upgrade
+```
+sudo apt-get update
+sudo apt-get upgrade
+```

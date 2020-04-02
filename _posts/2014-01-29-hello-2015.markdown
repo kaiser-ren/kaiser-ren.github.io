@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Hello 2015"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
-header-img: "img/post-bg-2015.jpg"
+title:      "Hello 2020"
+subtitle:   " \"Hello World, Hello COVID-19\""
+date:       2020-04-02 11:00:00
+author:     "Kai"
+header-img: "img/post-bg-2020.jpg"
 catalog: true
 tags:
     - 生活
@@ -16,13 +16,12 @@ tags:
 
 ## 前言
 
-Hux 的 Blog 就这么开通了。
+凯兄 的 Blog 就这么.开.通,了。
 
 [跳过废话，直接看技术实现 ](#build)
 
 
 
-2015 年，Hux 总算有个地方可以好好写点东西了。
 
 
 <p id = "build"></p>
@@ -30,9 +29,9 @@ Hux 的 Blog 就这么开通了。
 
 ## 正文
 
-接下来说说搭建这个博客的技术细节。  
+今年开年就遇到了新冠病毒，大家的生活都被改变了。
 
-正好之前就有关注过 [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 快速 Building Blog 的技术方案，非常轻松时尚。
+#正好之前就有关注过 [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 快速 #Building Blog 的技术方案，非常轻松时尚。
 
 其优点非常明显：
 
@@ -52,4 +51,4 @@ Hux 的 Blog 就这么开通了。
 
 如果你恰好逛到了这里，希望你也能喜欢这个博客主题。
 
-—— Kai 后记于 2015.10
+—— Kai 后记于 2020.04
