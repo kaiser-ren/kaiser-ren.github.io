@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 02 Apr 2020 21:16:29 +0800</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2020 21:16:29 +0800</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2020 21:42:01 +0800</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2020 21:42:01 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -70,15 +70,23 @@
   &lt;li&gt;
     &lt;p&gt;Install Ubuntu, WSL for Windows 10&lt;/p&gt;
 
-    &lt;p&gt;I choose Ubuntu, This is installation link on &lt;a href=&quot;https://docs.microsoft.com/en-us/windows/wsl/install-win10&quot;&gt;MS website&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;I choose Ubuntu, This is installation link on &lt;a href=&quot;https://docs.microsoft.com/en-us/windows/wsl/install-win10&quot;&gt;Microsoft website&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;system update and upgrade&lt;/p&gt;
+  &lt;li&gt;system update and upgrade
     &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get update
 sudo apt-get upgrade
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
+  &lt;li&gt;install dependencies
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get install -y git bc libusb-dev libdbus-1-dev libglib2.0-dev libudev-dev libical-dev libreadline-dev autoconf bison flex libssl-dev
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;install BlueZ
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install bluez 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
 </description>
         <pubDate>Wed, 01 Apr 2020 20:00:00 +0800</pubDate>
         <link>/2020/04/01/install-bluez-on-WSL/</link>
@@ -87,6 +95,30 @@ sudo apt-get upgrade
         <category>Bluetooth</category>
         
         <category>BlueZ</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What is Developer Relations</title>
+        <description>&lt;p&gt;I work as this title for a long time, Developer Relations Manager. There are some points I think they are worth to be shared.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DevRel, in theory, is the intersection of three disciplines: engineering, marketing, and community management;&lt;/li&gt;
+  &lt;li&gt;I like to describe the role as having three pillars: Three Cs: code, content, and community. Code is maybe open source projects, or quick starts examples. Content is blog posts, tutorials, talks, that kind of stuff. And then community is working with people in person or online, maybe Twitter or Stack Overflow.&lt;/li&gt;
+  &lt;li&gt;DevRel, in theory, is the intersection of three disciplines: engineering, marketing, and community management;&lt;/li&gt;
+  &lt;li&gt;To the community I represent the company, to the company I represent the community, and I must have both of their interests in mind at all times;&lt;/li&gt;
+  &lt;li&gt;At its core, Developer Relations is best defined as building relationships with the developer community. It is acting as the liaison between your company and existing developer communities.&lt;/li&gt;
+  &lt;li&gt;To complicate matters, each company seems to have its own idea of what Developer Relations - is—whether it’s product, outbound marketing, sales, talent acquisition, PR, or engineering. The truth is, a successful Developer Relations program isnone of these and all of these.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 01 Apr 2020 20:00:00 +0800</pubDate>
+        <link>/2020/04/01/What-is-developer-relations/</link>
+        <guid isPermaLink="true">/2020/04/01/What-is-developer-relations/</guid>
+        
+        <category>DevRel</category>
+        
+        <category>Developer</category>
         
         
       </item>
