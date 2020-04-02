@@ -6,8 +6,8 @@ email: renkaikaiser@163.com
 description: ""
 keyword: "Bluetooth, Developer Relations"
 url: ""              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
-
+#baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         
 
 
 # SNS settings
@@ -32,7 +32,8 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 
