@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 02 Apr 2020 17:51:43 +0800</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2020 17:51:43 +0800</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2020 17:56:59 +0800</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2020 17:56:59 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -77,6 +77,21 @@
         <guid isPermaLink="true">/2020/04/02/js-version/</guid>
         
         <category>Blog</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Install BlueZ on Windows 10 wsl</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Apr 2020 20:00:00 +0800</pubDate>
+        <link>/2020/04/01/install-bluez-on-WSL/</link>
+        <guid isPermaLink="true">/2020/04/01/install-bluez-on-WSL/</guid>
+        
+        <category>Bluetooth</category>
+        
+        <category>BlueZ</category>
         
         
       </item>
