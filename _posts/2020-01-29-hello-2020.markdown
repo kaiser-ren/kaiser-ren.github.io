@@ -19,8 +19,11 @@ tags:
 凯兄 的 Blog 就这么.开.通,了。
 
 [跳过废话，直接看技术实现 ](#build)
-
-
+two important commands for jekyll
+```
+jekyll serve --watch
+jekyll build
+```
 
 
 

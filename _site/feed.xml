@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 02 Apr 2020 21:48:01 +0800</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2020 21:48:01 +0800</lastBuildDate>
+    <pubDate>Fri, 03 Apr 2020 11:11:20 +0800</pubDate>
+    <lastBuildDate>Fri, 03 Apr 2020 11:11:20 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -78,7 +78,11 @@ sudo apt-get upgrade
 
 &lt;p&gt;凯兄 的 Blog 就这么.开.通,了。&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#build&quot;&gt;跳过废话，直接看技术实现 &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#build&quot;&gt;跳过废话，直接看技术实现 &lt;/a&gt;
+two important commands for jekyll&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;jekyll serve --watch
+jekyll build
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p id=&quot;build&quot;&gt;&lt;/p&gt;
 &lt;hr /&gt;
